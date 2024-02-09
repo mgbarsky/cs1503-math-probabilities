@@ -1,2 +1,2 @@
-# cs1503-math-probabilities
-Latex template for Math assignment 3
+# CS 1503: Probabilities
+## Homework
